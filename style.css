@@ -1,11 +1,19 @@
 body{
-    background-color:black
+    background-color:rgb(43, 47, 73)
 }
+h1, h2, h3{
+    color: rgb(246, 246, 246);
+}   
 p{
-    color: chartreuse;
-    font-size: 35px;
-}
-p1{
-    color: chartreuse;
+    color: rgb(255, 255, 255);
     font-size: 20px;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 24px;
+}
+ul li{
+    list-style: symbols();
 }
